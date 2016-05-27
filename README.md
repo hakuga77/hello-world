@@ -1,4 +1,3 @@
 # hello-world
 
-Hi world!
-Let's grasp something!
+Forescore and seven years ago, 
